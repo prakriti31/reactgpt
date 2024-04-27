@@ -23,7 +23,7 @@ const Navbar = () => {
         <div className='gpt3__navbar-links-logo'>
           <img src = {logo} alt = 'logo' />
         </div>
-        <div className='gpt3__navbar-links-container'>
+        <div className='gpt3__navbar-links_container'>
           <Menu/>
         </div>
       </div>
@@ -37,10 +37,10 @@ const Navbar = () => {
         : <RiMenu3Line color="#fff" size={27} onClick={() => setToggleMenu(true)}/>
         }
         {toggleMenu && (
-          <div className='gpt3__navbar-menu-container scale-up-center'>
+          <div className='gpt3__navbar-menu_container scale-up-center'>
             <div className='gpt3__navbar-menu_container-links'>
-              <Menu/>
-              <div className='gpt3__navbar-menu-container-links-sign'>
+              <Menu />
+              <div className='gpt3__navbar-menu_container-links-sign'>
                 <p> Sign in</p>
                 <button type="button">Sign Up </button>
               </div>
