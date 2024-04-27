@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/prakriti31/reactgpt/blob/main/src/App.js/static/css/main.9ef4b33a.css",
-    "main.js": "/prakriti31/reactgpt/blob/main/src/App.js/static/js/main.5ea0f3e5.js",
-    "static/media/ai.png": "/prakriti31/reactgpt/blob/main/src/App.js/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/prakriti31/reactgpt/blob/main/src/App.js/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/prakriti31/reactgpt/blob/main/src/App.js/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/prakriti31/reactgpt/blob/main/src/App.js/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/prakriti31/reactgpt/blob/main/src/App.js/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/prakriti31/reactgpt/blob/main/src/App.js/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/prakriti31/reactgpt/blob/main/src/App.js/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/prakriti31/reactgpt/blob/main/src/App.js/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/prakriti31/reactgpt/blob/main/src/App.js/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/prakriti31/reactgpt/blob/main/src/App.js/index.html",
-    "main.9ef4b33a.css.map": "/prakriti31/reactgpt/blob/main/src/App.js/static/css/main.9ef4b33a.css.map",
-    "main.5ea0f3e5.js.map": "/prakriti31/reactgpt/blob/main/src/App.js/static/js/main.5ea0f3e5.js.map"
+    "main.css": "/reactgpt/static/css/main.9ef4b33a.css",
+    "main.js": "/reactgpt/static/js/main.c90e5da5.js",
+    "static/media/ai.png": "/reactgpt/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/reactgpt/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/reactgpt/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/reactgpt/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/reactgpt/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/reactgpt/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/reactgpt/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/reactgpt/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/reactgpt/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/reactgpt/index.html",
+    "main.9ef4b33a.css.map": "/reactgpt/static/css/main.9ef4b33a.css.map",
+    "main.c90e5da5.js.map": "/reactgpt/static/js/main.c90e5da5.js.map"
   },
   "entrypoints": [
     "static/css/main.9ef4b33a.css",
-    "static/js/main.5ea0f3e5.js"
+    "static/js/main.c90e5da5.js"
   ]
 }
